@@ -1,3 +1,4 @@
+<img width="1745" height="860" alt="Screenshot From 2026-05-13 13-15-35" src="https://github.com/user-attachments/assets/5bafd7f3-3a71-4805-aa90-5da9dd5f7b63" />
 # Hackathon MedConnect — `aiv4_demo/`
 
 This folder is the **hackathon hand-off bundle**.<img width="1375" height="871" alt="Screenshot From 2026-05-13 11-30-58" src="https://github.com/user-attachments/assets/47e4fa4b-dcb0-4285-9860-2427f98bea47" />
