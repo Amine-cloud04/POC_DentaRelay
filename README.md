@@ -1,6 +1,7 @@
 # Hackathon MedConnect — `aiv4_demo/`
 
-This folder is the **hackathon hand-off bundle**.
+This folder is the **hackathon hand-off bundle**.<img width="1375" height="871" alt="Screenshot From 2026-05-13 11-30-58" src="https://github.com/user-attachments/assets/47e4fa4b-dcb0-4285-9860-2427f98bea47" />
+
 
 The canonical guide is available in **two languages** — pick whichever you prefer; both are identical in content:
 
